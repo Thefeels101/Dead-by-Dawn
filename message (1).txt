@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1752162891,
+	"Version": 1754101300,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1111,7 +1111,7 @@
 		{
 			"Name": "The Clown",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"8",
 				"19"
@@ -1723,7 +1723,15 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				398
+				398,
+				393,
+				390,
+				392,
+				388,
+				384,
+				385,
+				382,
+				395
 			],
 			"ItemWhitelist": [
 				0,
@@ -2707,11 +2715,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				3
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3071,15 +3079,18 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
-				0
+				"8",
+				"33"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3091,7 +3102,13 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				788,
+				798,
+				797,
+				794,
+				792
+			],
 			"ItemWhitelist": [],
 			"AddonWhitelist": {
 				"Firecracker": {

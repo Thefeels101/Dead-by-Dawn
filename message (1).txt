@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1756857555,
+	"Version": 1756869451,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -362,10 +362,12 @@
 				0
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -399,8 +401,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Wraith",
@@ -465,8 +474,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -545,8 +553,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -702,8 +709,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -823,8 +829,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -893,7 +898,9 @@
 				}
 			},
 			"SurvivorOfferings": [
-				2
+				0,
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -961,10 +968,12 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
-			"KillerOfferings": []
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Nightmare",
@@ -1030,8 +1039,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1101,8 +1109,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1176,8 +1183,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1337,8 +1343,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1411,8 +1416,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1481,8 +1485,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1550,8 +1553,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1620,8 +1622,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1690,8 +1691,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1759,8 +1759,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1844,8 +1843,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1964,8 +1962,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2037,8 +2034,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2111,8 +2107,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2182,8 +2177,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2255,8 +2249,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2328,8 +2321,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2400,8 +2392,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2569,8 +2560,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2643,8 +2633,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2832,8 +2821,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2911,8 +2899,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2985,8 +2972,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -3062,8 +3048,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -3073,15 +3058,17 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				0
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3094,13 +3081,21 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3115,8 +3110,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		}
 	]
 }

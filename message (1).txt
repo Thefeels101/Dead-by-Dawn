@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1757191808,
+	"Version": 1757263946,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1110,7 +1110,7 @@
 		{
 			"Name": "The Clown",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
 				"8",
 				"19"
@@ -2698,11 +2698,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				3
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -2786,7 +2786,9 @@
 			"IndividualAddonBans": [
 				716,
 				717,
-				718
+				718,
+				714,
+				709
 			],
 			"ItemWhitelist": [
 				5,
@@ -2852,7 +2854,8 @@
 				"58",
 				"63",
 				"64",
-				"67"
+				"67",
+				"103"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -3062,10 +3065,12 @@
 				0
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3117,7 +3122,10 @@
 				2,
 				5
 			],
-			"KillerOfferings": []
+			"KillerOfferings": [
+				5,
+				16
+			]
 		}
 	]
 }

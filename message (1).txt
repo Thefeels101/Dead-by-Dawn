@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1757263946,
+	"Version": 1757983147,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -365,10 +365,12 @@
 				0
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -402,8 +404,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Wraith",
@@ -964,7 +973,10 @@
 				2,
 				5
 			],
-			"KillerOfferings": []
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Nightmare",

@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1757983147,
+	"Version": 1758164506,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -69,7 +69,6 @@
 				"253",
 				"116",
 				"120",
-				"124",
 				"126",
 				"254",
 				"130"

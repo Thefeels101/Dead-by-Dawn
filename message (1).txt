@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1758164506,
+	"Version": 1758320644,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1818,7 +1818,8 @@
 			"ItemWhitelist": [
 				0,
 				5,
-				14
+				14,
+				10
 			],
 			"AddonWhitelist": {
 				"Firecracker": {

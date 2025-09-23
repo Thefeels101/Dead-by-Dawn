@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1758320644,
+	"Version": 1758661470,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -36,6 +36,7 @@
 				"46",
 				"49",
 				"51",
+				"294",
 				"55",
 				"274",
 				"252",
@@ -47,6 +48,7 @@
 				"269",
 				"73",
 				"74",
+				"295",
 				"77",
 				"81",
 				"82",
@@ -56,6 +58,7 @@
 				"88",
 				"281",
 				"90",
+				"296",
 				"98",
 				"99",
 				"100",
@@ -83,6 +86,7 @@
 				"147",
 				"149",
 				"150",
+				"153",
 				"155",
 				"266",
 				"276",
@@ -97,6 +101,7 @@
 				"172",
 				"175",
 				"277",
+				"291",
 				"180",
 				"183",
 				"264",
@@ -111,6 +116,7 @@
 				"284",
 				"209",
 				"211",
+				"292",
 				"214",
 				"216",
 				"272",
@@ -3138,6 +3144,57 @@
 				5,
 				16
 			]
+		},
+		{
+			"Name": "The Krasue",
+			"KillerNotes": "",
+			"IsDisabled": false,
+			"Map": [
+				0
+			],
+			"BalanceTiers": [
+				0
+			],
+			"SurvivorBalanceTiers": [
+				0
+			],
+			"AntiFacecampPermitted": false,
+			"KillerIndvPerkBans": [],
+			"KillerComboPerkBans": [],
+			"SurvivorIndvPerkBans": [],
+			"SurvivorComboPerkBans": [],
+			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedComboPerks": [],
+			"KillerWhitelistedPerks": [],
+			"KillerWhitelistedComboPerks": [],
+			"AddonTiersBanned": [],
+			"IndividualAddonBans": [],
+			"ItemWhitelist": [],
+			"AddonWhitelist": {
+				"Firecracker": {
+					"Addons": []
+				},
+				"Flashlight": {
+					"Addons": []
+				},
+				"Med-Kit": {
+					"Addons": []
+				},
+				"Toolbox": {
+					"Addons": []
+				},
+				"Key": {
+					"Addons": []
+				},
+				"Map": {
+					"Addons": []
+				},
+				"Fog Vial": {
+					"Addons": []
+				}
+			},
+			"SurvivorOfferings": [],
+			"KillerOfferings": []
 		}
 	]
 }

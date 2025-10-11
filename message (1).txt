@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1760198121,
+	"Version": 1760225741,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -51,6 +51,7 @@
 				"73",
 				"74",
 				"77",
+				"80",
 				"81",
 				"82",
 				"83",
@@ -73,6 +74,7 @@
 				"290",
 				"287",
 				"120",
+				"124",
 				"126",
 				"254",
 				"130"
@@ -200,6 +202,8 @@
 				"34",
 				"36",
 				"38",
+				"39",
+				"57",
 				"76",
 				"80",
 				"96",
@@ -2712,11 +2716,11 @@
 			],
 			"BalanceTiers": [
 				0,
-				3
+				4
 			],
 			"SurvivorBalanceTiers": [
 				0,
-				3
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3076,15 +3080,17 @@
 		{
 			"Name": "The Animatronic",
 			"KillerNotes": "",
-			"IsDisabled": true,
+			"IsDisabled": false,
 			"Map": [
 				0
 			],
 			"BalanceTiers": [
-				0
+				0,
+				4
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				4
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -3097,13 +3103,21 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [],
-			"ItemWhitelist": [],
+			"ItemWhitelist": [
+				0,
+				5
+			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": []
@@ -3118,8 +3132,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Krasue",

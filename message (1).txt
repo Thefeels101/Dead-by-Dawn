@@ -1,6 +1,6 @@
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1760225741,
+	"Version": 1760998265,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -210,7 +210,8 @@
 				"102",
 				"109",
 				"121",
-				"127"
+				"127",
+				"128"
 			],
 			"KillerIndvPerkBans": [
 				"163",
@@ -229,9 +230,11 @@
 				"38",
 				"39",
 				"57",
+				"61",
 				"76",
 				"80",
 				"96",
+				"102",
 				"109",
 				"121",
 				"127",
@@ -473,7 +476,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -553,7 +555,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -710,7 +711,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -831,7 +831,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -901,7 +900,9 @@
 				}
 			},
 			"SurvivorOfferings": [
-				2
+				0,
+				2,
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -939,7 +940,8 @@
 				178
 			],
 			"ItemWhitelist": [
-				0
+				0,
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -969,10 +971,12 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
-			"KillerOfferings": []
+			"KillerOfferings": [
+				5,
+				16
+			]
 		},
 		{
 			"Name": "The Nightmare",
@@ -1038,7 +1042,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1109,7 +1112,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1184,7 +1186,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1345,7 +1346,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1374,7 +1374,8 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
 				"11",
-				"53"
+				"53",
+				"112"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -1418,7 +1419,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1488,7 +1488,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1557,7 +1556,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1627,7 +1625,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1697,7 +1694,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1732,7 +1728,15 @@
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
-				398
+				398,
+				397,
+				390,
+				392,
+				388,
+				384,
+				382,
+				385,
+				395
 			],
 			"ItemWhitelist": [
 				0,
@@ -1766,7 +1770,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1851,7 +1854,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -1971,7 +1973,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2044,7 +2045,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2118,7 +2118,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2189,7 +2188,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2262,7 +2260,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2335,7 +2332,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2407,7 +2403,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2576,7 +2571,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2650,7 +2644,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2768,7 +2761,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2805,7 +2797,9 @@
 			"IndividualAddonBans": [
 				716,
 				717,
-				718
+				718,
+				709,
+				714
 			],
 			"ItemWhitelist": [
 				5,
@@ -2839,7 +2833,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2872,7 +2865,8 @@
 				"58",
 				"63",
 				"64",
-				"67"
+				"67",
+				"103"
 			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
@@ -2918,7 +2912,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -2992,7 +2985,6 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
 				6
 			],
 			"KillerOfferings": [
@@ -3102,7 +3094,13 @@
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
 			"AddonTiersBanned": [],
-			"IndividualAddonBans": [],
+			"IndividualAddonBans": [
+				798,
+				797,
+				794,
+				788,
+				792
+			],
 			"ItemWhitelist": [
 				0,
 				5

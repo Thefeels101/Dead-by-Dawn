@@ -1,7 +1,6 @@
-
 {
 	"Name": "Dead By dawn Season 3",
-	"Version": 1761873205,
+	"Version": 1762384915,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -489,7 +488,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -568,7 +567,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -724,7 +723,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -844,7 +843,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -984,7 +983,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1055,7 +1054,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1125,7 +1124,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1199,7 +1198,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1359,7 +1358,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1432,7 +1431,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1501,7 +1500,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1569,7 +1568,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1638,7 +1637,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1707,7 +1706,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1749,7 +1748,8 @@
 				384,
 				382,
 				385,
-				395
+				395,
+				393
 			],
 			"ItemWhitelist": [
 				0,
@@ -1783,7 +1783,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1867,7 +1867,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -1986,7 +1986,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2058,7 +2058,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2131,7 +2131,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2201,7 +2201,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2273,7 +2273,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2345,7 +2345,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2416,7 +2416,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2584,7 +2584,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2657,7 +2657,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2774,7 +2774,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2846,7 +2846,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2925,7 +2925,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -2998,7 +2998,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -3074,8 +3074,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				5,
-				6
+				5
 			],
 			"KillerOfferings": [
 				5,
@@ -3156,9 +3155,9 @@
 		{
 			"Name": "The Krasue",
 			"KillerNotes": "",
-			"IsDisabled": false,
+			"IsDisabled": true,
 			"Map": [
-				0
+				"0"
 			],
 			"BalanceTiers": [
 				0
